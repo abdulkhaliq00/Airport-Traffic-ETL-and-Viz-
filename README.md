@@ -14,3 +14,7 @@ Each observation provides information on a specific airline for a pair of airpor
 passengers: Data on the total number of passengers for each month and year between a pair of airports, as serviced by a particular airline.
 The number is also broken down by those in scheduled flights plus those in chartered flights.
 We will start with data for 2017.
+
+Click Below for Viz:
+
+https://public.tableau.com/app/profile/abdul.khaliq/viz/AirportTraffic_16755323424630/AirportTrafficbyUSandInternationalCarriers?publish=yes
